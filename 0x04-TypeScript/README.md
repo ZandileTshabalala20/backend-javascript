@@ -412,4 +412,4 @@ Create two functions named  `sumMajorCredits`  and  `sumMinorCredits`  in  `task
 -   `sumMajorCredits`  returns  `MajorCredits`  value and  `sumMinorCredits`  returns  `MinorCredits`  value
 -   Each function sums the credits of the two subjects
 
-**Repo:**
+
